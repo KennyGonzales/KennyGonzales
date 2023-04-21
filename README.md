@@ -18,4 +18,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/kenny-gonzales
+[linkedin]: https://linkedin.com/in/kenny-gonzales-306761254/
